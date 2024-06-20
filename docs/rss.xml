@@ -1,2 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://cddennisky.github.io/gjmedia.com</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://cddennisky.github.io/gjmedia.com</link></image><lastBuildDate>Thu, 20 Jun 2024 07:18:57 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>gjmedia Blog</title><link>https://cddennisky.github.io/gjmedia</link><description>成都光聚的</description><copyright>gjmedia Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://cddennisky.github.io/gjmedia</link></image><lastBuildDate>Thu, 20 Jun 2024 07:43:14 +0000</lastBuildDate><managingEditor>gjmedia Blog</managingEditor><ttl>60</ttl><webMaster>gjmedia Blog</webMaster><item><title>成都光聚项目开发展示页</title><link>https://cddennisky.github.io/gjmedia/post/cheng-du-guang-ju-xiang-mu-kai-fa-zhan-shi-ye.html</link><description>&lt;h1&gt;&lt;center&gt;成都光聚2024年新项目整理之工程类&lt;/center&gt;&lt;/h1&gt;&#13;
+&#13;
+&lt;h3&gt;&#13;
+&lt;/h3&gt;&#13;
+&#13;
+&gt; _1、&lt;h3&gt;程序化构造几何体，并在浏览器上展示可控的三维动画效果&lt;/h3&gt;&#13;
+&lt;h4&gt;构建工艺库，通过选定、设定或指定数据，实现路、桥、隧建造工艺中，三维物件的远程实时展示，扩展至施工工艺设计策划_&lt;/h4&gt;&#13;
+&#13;
+&gt; _2、&lt;h3&gt;摄像头数据联网，影像定位智能施工现场管理助手&lt;/color&gt;&lt;/h3&gt;&#13;
+&lt;h4&gt;实现不需要附加设备的人员信息定位管理，与施工进程监控网络构成现场施工管理24小时实时监控，并形成智能施工组织建议规划。</description><guid isPermaLink="true">https://cddennisky.github.io/gjmedia/post/cheng-du-guang-ju-xiang-mu-kai-fa-zhan-shi-ye.html</guid><pubDate>Thu, 20 Jun 2024 07:18:32 +0000</pubDate></item></channel></rss>
